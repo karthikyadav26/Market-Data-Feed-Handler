@@ -1,0 +1,10 @@
+/build/
+/captures/*.bin
+/captures/*.csv
+/results/*.csv
+/results/*.tmp
+*.o
+*.a
+compile_commands.json
+.vscode/
+.idea/
